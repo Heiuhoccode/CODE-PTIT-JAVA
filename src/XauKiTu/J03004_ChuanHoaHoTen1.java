@@ -3,7 +3,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package XauKiTu;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Scanner;
 public class J03004_ChuanHoaHoTen1 {
     public static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
